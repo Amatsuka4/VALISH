@@ -1,0 +1,6 @@
+*.env
+*.config.js
+*.config.ts
+*.json
+!package-lock.json
+node_modules
